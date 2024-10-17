@@ -1,4 +1,4 @@
-# interface definition for Pricing rule
+# Interface definition for Pricing rule
 
 ```
 type PricingRule interface {
